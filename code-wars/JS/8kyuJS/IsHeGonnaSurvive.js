@@ -1,0 +1,1 @@
+const hero = (b, d) => b >= d * 2
