@@ -1,0 +1,1 @@
+litres = t => Math.floor(t * .5) 
