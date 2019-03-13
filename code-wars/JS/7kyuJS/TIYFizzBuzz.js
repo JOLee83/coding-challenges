@@ -1,7 +1,7 @@
 function tiyFizzBuzz(s) {
-  let lowerVowel = ['a', 'e', 'i', 'o', 'u'];
-  let upperVowel = ['A', 'E', 'I', 'O', 'U'];
-  let upperConsonants = ['Q', 'W', 'R', 'T', 'Y', 'P', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'Z', 'X', 'C', 'V', 'B', 'N', 'M'];
+  let lowerVowel = 'aeiou';
+  let upperVowel = 'AEIOU';
+  let upperConsonants = 'QWRTYPSDFGHJKLZXCVBNM';
   return s.split("").map(letter => {
     if (upperVowel.includes(letter)) {
       return "Iron Yard"
