@@ -16,6 +16,9 @@ https://www.codewars.com/kata/encrypt-this/train/javascript
 -Array diff (6kyu)
 https://www.codewars.com/kata/array-dot-diff/train/javascript
 
+-Tribonacci Sequence (6kyu)
+https://www.codewars.com/kata/tribonacci-sequence/train/javascript
+
 ##5kyu
 
 -
