@@ -28,7 +28,7 @@ https://www.codewars.com/kata/find-fibonacci-last-digit/train/javascript
 
 ##Round 2
 
-- (7kyu)
+-(7kyu)
 
 -Tribonacci Sequence (6kyu)
 https://www.codewars.com/kata/tribonacci-sequence/train/javascript
@@ -57,6 +57,6 @@ https://www.codewars.com/kata/tribonacci-sequence/train/javascript
 -Product of consecutive Fib numbers (5kyu)
 https://www.codewars.com/kata/product-of-consecutive-fib-numbers/train/javascript
 
-- (7kyu)
+-(7kyu)
 
 
