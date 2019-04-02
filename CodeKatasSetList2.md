@@ -27,7 +27,8 @@
 
 ## Round 2
 
-- (7kyu)
+- Length of Longest Fibonacci Subsequence (Leet Code: medium)
+- https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 
 - Tribonacci Sequence (6kyu)
 - https://www.codewars.com/kata/tribonacci-sequence/train/javascript
