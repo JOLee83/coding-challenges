@@ -7,6 +7,9 @@
 
 ##6kyu
 
+- Make Dead Fish Swim (6kyu)
+- https://www.codewars.com/kata/make-the-deadfish-swim/train/javascript
+
 - Bit Counting (6kyu)
 - https://www.codewars.com/kata/bit-counting/train/javascript
 
@@ -23,3 +26,5 @@
 - https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript
 ##5kyu
 
+- Simple Pig Latin (5 kyu)
+- https://www.codewars.com/kata/simple-pig-latin/train/javascript
