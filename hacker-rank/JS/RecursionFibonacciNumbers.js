@@ -26,5 +26,4 @@ function fibonacci(n) {
     }
     return b
   }
-
 }

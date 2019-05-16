@@ -61,5 +61,3 @@
 - https://www.codewars.com/kata/product-of-consecutive-fib-numbers/train/javascript
 
 
-
-
