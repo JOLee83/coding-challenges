@@ -28,3 +28,14 @@
 
 - Simple Pig Latin (5 kyu)
 - https://www.codewars.com/kata/simple-pig-latin/train/javascript
+
+##Sorting
+
+- 6kyu
+- https://www.codewars.com/kata/prize-draw/train/javascript
+
+- Medium
+- https://leetcode.com/problems/sort-an-array/
+
+- Easy 
+- https://leetcode.com/problems/sort-array-by-parity/
