@@ -39,3 +39,9 @@
 
 - Easy 
 - https://leetcode.com/problems/sort-array-by-parity/
+
+- 7kyu
+- https://www.codewars.com/kata/mylanguages/train/javascript
+
+- 7kyu
+- https://www.codewars.com/kata/sorted-yes-no-how/train/javascript 
