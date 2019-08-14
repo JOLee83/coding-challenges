@@ -1,5 +1,7 @@
 # Code Katas Set List 5
 
+- Theme: none
+
 ## Round 1
 
 - Grow of Population (7kyu)
