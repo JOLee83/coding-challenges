@@ -1,5 +1,7 @@
 # Code Katas Set List 6
 
+- Theme: Arrays
+
 ## Round 1
 
 - Nth Smallest Element (7 kyu)

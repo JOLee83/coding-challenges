@@ -1,30 +1,12 @@
 # Code Katas Set List 1
 
+- Theme: Fizz Buzz
+
 ## Round 1
 
 - Fizz Buzz (7kyu)
 
 - https://www.codewars.com/kata/fizz-buzz/train/javascript
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Round 2
 
@@ -36,28 +18,8 @@
 
 - https://www.codewars.com/kata/tiy-fizzbuzz/train/javascript
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Round 3
+
 - RGB to Hex Conversion (5kyu)
 
 - String End With? (7kyu)
