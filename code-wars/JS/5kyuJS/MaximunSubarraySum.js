@@ -3,7 +3,7 @@ var maxSequence = function(arr) {
 		return 0
 	}
 	let max = arr.reduce((a, b) => a + b)
-	let length = arr.length
+	let length = arr.length - 1
 	while (length > 0) {
 		for (let i = 0; i + length <= arr.length; i++) {
 			let newArr = arr.slice(i, i + length)
