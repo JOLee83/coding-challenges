@@ -33,6 +33,9 @@
 <!-- - Valid Parentheses (5 kyu)
 - https://www.codewars.com/kata/valid-parentheses/train/javascript -->
 
+- Blackjack Scorer (5 kyu)
+- https://www.codewars.com/kata/blackjack-scorer/train/javascript
+
 ##Sorting
 
 <!-- - 6kyu
