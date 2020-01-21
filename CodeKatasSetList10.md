@@ -17,8 +17,8 @@
 
 ## Round 3
 
-- (6 kyu)
-- 
+- Multiples of 3 or 5 (6 kyu)
+- https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
 
 - Blackjack Scorer (5 kyu)
 - https://www.codewars.com/kata/blackjack-scorer/train/javascript
