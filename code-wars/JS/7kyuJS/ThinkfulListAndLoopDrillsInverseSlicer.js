@@ -3,3 +3,5 @@ function inverseSlice(items, a, b) {
   let start = items.splice(0, a)
   return start.concat(end)
 }
+
+inverseSlice = (items, a, b) => items.slice(0, a).concat(items.slice(b));
