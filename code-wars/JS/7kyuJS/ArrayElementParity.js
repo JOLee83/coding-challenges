@@ -1,3 +1,1 @@
-function solve(arr) {
-  return [...new Set(arr)].reduce((a, c) => a + c);
-};
+const solve = (arr) => [...new Set(arr)].reduce((a, c) => a + c);

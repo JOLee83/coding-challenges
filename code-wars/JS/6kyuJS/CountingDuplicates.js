@@ -12,7 +12,7 @@ function duplicateCount(text) {
 
   unique.forEach(x => {
     const filtered = lowerText.filter(y => y !== x);
-    if (filtered.length < text.length - 1) {
+    if (filtered.length < length - 1) {
       count++
     }
   });

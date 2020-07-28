@@ -1,19 +1,14 @@
 function movie(card, ticket, perc) {
-  let count = 0;
+  let count = 1;
   let discTicket = ticket * perc;
-  let isMore = true;
-  let systemB = card;
+  let systemB = card + discTicket;
+  let systemA = ticket * count;
 
-  while (isMore) {
+  while (Math.ceil(systemB) >= systemA) {
     count++;
-    let systemA = ticket * count;
-    systemB += discTicket;
-
-    if (Math.ceil(systemB) < systemA) {
-      isMore = false;
-    }
-
     discTicket = discTicket * perc;
+    systemB += discTicket;
+    systemA = ticket * count;
   }
 
   return count;
