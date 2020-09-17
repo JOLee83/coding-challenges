@@ -1,11 +1,11 @@
 #
 
-##7kyu
+## 7kyu
 
 <!-- - Grow of Population (7kyu)
 - https://www.codewars.com/kata/growth-of-a-population/train/javascript -->
 
-##6kyu
+## 6kyu
 
 <!-- - Make Dead Fish Swim (6kyu)
 - https://www.codewars.com/kata/make-the-deadfish-swim/train/javascript -->
@@ -25,7 +25,10 @@
 <!-- - Does my number look big in this? (6 kyu)
 - https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript -->
 
-##5kyu
+- The Supermarket Queue (6 kyu)
+- https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/javascript
+
+## 5kyu
 
 <!-- - Simple Pig Latin (5 kyu)
 - https://www.codewars.com/kata/simple-pig-latin/train/javascript -->
@@ -36,7 +39,10 @@
 <!-- - Blackjack Scorer (5 kyu)
 - https://www.codewars.com/kata/blackjack-scorer/train/javascript -->
 
-##Sorting
+- The Supermarket Queue (6 kyu)
+- https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/javascript
+
+## Sorting
 
 <!-- - 6kyu
 - https://www.codewars.com/kata/prize-draw/train/javascript -->

@@ -1,6 +1,6 @@
 # Code Katas Set List 18
 
-- Theme: 
+- Theme: None
 
 ## Round 1
 
@@ -17,8 +17,13 @@
 
 ## Round 3
 
-- 
-- 
+- New Cashier Does Not Know About Space or Shift (6 kyu)
+- https://www.codewars.com/kata/5d23d89906f92a00267bb83d/train/javascript
 
-- 
-- 
+- Rotate for a Max (7 kyu)
+- https://www.codewars.com/kata/56a4872cbb65f3a610000026/train/javascript
+
+## Bonus Round
+
+- Fizz Buzz Reloaded (6 kyu)
+- https://www.codewars.com/kata/5adbc57f0774dbaa5600011b/solutions/javascript/me/best_practice
